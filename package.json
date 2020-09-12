@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/runstache/nodejstutorial/issues"
   },
-  "homepage": "https://github.com/runstache/nodejstutorial#readme"
+  "homepage": "https://github.com/runstache/nodejstutorial#readme",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31"
+  }
 }
